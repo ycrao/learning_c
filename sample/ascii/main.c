@@ -17,7 +17,7 @@ int main() {
     printf("Visible Char\'s ASCII Code Map\n");
     printf("_______________________________________\n");
     printf("|      |     |          |      |      |\n");
-    printf("| Char | Dec | Bin      | Oct  | Dec  |\n");
+    printf("| Char | Dec | Bin      | Oct  | Hex  |\n");
     printf("|______|_____|__________|______|______|\n");
     char tmp[33];
     for (int i = 32; i <= 126; i ++) {
