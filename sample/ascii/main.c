@@ -6,8 +6,7 @@ void int2bin(unsigned int integer, char* binary, unsigned int n) {
         n = 8*(d+1);
     }
     for (int i = 0; i < n; i ++) {
-        // if integer = 124
-        // BIN(01111100) & BIN(10000000) => BIN(00000000)
+        // if integer = 124 see test.c
         binary[i] = integer & (1 << (n-i-1)) ? '1' : '0';
     }
     binary[n] = '\0';
