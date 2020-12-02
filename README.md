@@ -13,3 +13,5 @@
 ### 索引
 
 - [排序算法](algo/sort/)
+- [ASCII码表](sample/ascii)
+
