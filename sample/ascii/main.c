@@ -22,7 +22,7 @@ int main() {
     for (int i = 32; i <= 126; i ++) {
         int2bin(i, tmp, 8);
         printf("|      |     |          |      |      |\n");
-        printf("| %c    | %-3d | %s | 0%-3o | 0x%x |\n", i, i, tmp, i, i, i);
+        printf("| %c    | %-3d | %s | 0%-3o | 0x%x |\n", i, i, tmp, i, i);
         // printf("| -    | --- | -------- | ---- | ---- |\n");
         printf("|______|_____|__________|______|______|\n");
     }
