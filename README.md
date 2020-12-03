@@ -31,5 +31,6 @@
 ### 索引
 
 - [排序算法](algo/sort/)
-- [ASCII码表](sample/ascii)
+- [斐波那契数](algo/fibonacci/)
+- [ASCII码表](sample/ascii/)
 
