@@ -1,10 +1,10 @@
-# learning_c
+# learning_c_and_cpp
 
->   Leaning C. 重学 C 语言。
+>   Leaning C/C++. 重学 C/C++ 语言。
 
 ### 源码学习与开发、编译说明
 
->   如源码中无特别说明，理论上均可在 `Windows` 与 类 `Linux` 系统 `gcc/g++` 环境下运行。（基础无额外依赖纯 `C` 的源码理论上可在 `MSVC++` 环境运行，可自行在 `Visual Studio` 下尝试。)
+>   如源码中无特别说明，理论上均可在 `Windows` 与 类 `Linux` 系统 `gcc/g++` 环境下运行。（基础无额外依赖纯 `C/C++` 的源码理论上可在 `MSVC++` 环境运行，可自行在 `Visual Studio` 下尝试。)
 
 #### *Q：开发中使用啥 `IDE` 或编辑器？*
 
