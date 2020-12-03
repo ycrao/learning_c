@@ -17,7 +17,7 @@
 
 - `Windows` 下可借助 [MinGW(64)](https://sourceforge.net/projects/mingw-w64/) 或 [MSYS2](https://www.msys2.org/) 等软件 获取 `GNU C/C++` 运行时来编译运行。 
 - 特别指出：`Windows 10` 下使用 `WSL` （`Linux 子系统`）获取 `GNU C/C++` 运行时，兼容性会更好。
-- [不建议] 直接使用微软 `Microsoft C++` 运行时，安装 `Visual Studio Community` 版本，不过磁盘占用大吃内存，不建议配置低机器使用。
+- [不建议] 直接使用微软 `Microsoft C++` 运行时，安装 `Visual Studio Community` 版本，不过磁盘、内存占用大，不建议低配置机器使用。
 
 
 ### 参考资料
