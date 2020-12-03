@@ -4,7 +4,7 @@
 
 ### 源码学习与开发、编译说明
 
->   如源码中无特别说明，理论上均可在 `Windows` 与 类 `Linux` 系统 `gcc/g++` 环境下运行。（理论上，基础纯C的源码可在 `MSVC++` 环境运行，可自行在 `Visual Studio` 下尝试。)
+>   如源码中无特别说明，理论上均可在 `Windows` 与 类 `Linux` 系统 `gcc/g++` 环境下运行。（基础无额外依赖纯 `C` 的源码理论上可在 `MSVC++` 环境运行，可自行在 `Visual Studio` 下尝试。)
 
 #### *Q：开发中使用啥 `IDE` 或编辑器？*
 
@@ -16,8 +16,8 @@
 有以下几种方式可选：
 
 - `Windows` 下可借助 [MinGW(64)](https://sourceforge.net/projects/mingw-w64/) 或 [MSYS2](https://www.msys2.org/) 等软件 获取 `GNU C/C++` 运行时来编译运行。 
-- 特别指出：`Windows 10` 下使用 `WSL` （`Linux 子系统`）获取 `GNU C/C++`，兼容性更好。
-- 直接使用微软 `Microsoft C++` 运行时，安装 `Visual Studio Community` 版本，不过磁盘占用大吃内存，不建议配置低机器使用。
+- 特别指出：`Windows 10` 下使用 `WSL` （`Linux 子系统`）获取 `GNU C/C++` 运行时，兼容性会更好。
+- [不建议] 直接使用微软 `Microsoft C++` 运行时，安装 `Visual Studio Community` 版本，不过磁盘占用大吃内存，不建议配置低机器使用。
 
 
 ### 参考资料
