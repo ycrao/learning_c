@@ -33,4 +33,6 @@
 - [排序算法](algo/sort/)
 - [斐波那契数](algo/fibonacci/)
 - [ASCII码表](sample/ascii/)
+- [指针、数组与字符串](sample/pointer_array_and_string/)
+- [跳动数字效果](sample/spinning/spinning.c)
 
