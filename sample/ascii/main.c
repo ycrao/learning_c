@@ -1,4 +1,4 @@
-#include "stdio.h"
+#include <stdio.h>
 
 void int2bin(unsigned int integer, char* binary, unsigned int n) {
     int d = n/8;
